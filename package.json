@@ -1,0 +1,30 @@
+{
+  "name": "gulp-dream",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "dream-lang",
+    "gulp"
+  ],
+  "main": "gulp-dream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raoofha/gulp-dream.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raoofha/gulp-dream/issues"
+  },
+  "homepage": "https://github.com/raoofha/gulp-dream#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "dream-lang": "^0.0.0",
+    "gulp-util": "^3.0.7",
+    "merge": "^1.2.0",
+    "through2": "^0.6.3"
+  }
+}
